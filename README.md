@@ -23,7 +23,8 @@ This project demonstrates the use of HTML and CSS to create a responsive and vis
 
 ## ScreenShot
 ScreenShot of my project
-![Screenshot (6)](https://github.com/user-attachments/assets/1524f7a3-5be5-4cee-97b8-563e48682d05)
+![Screenshot (6)](https://github.com/user-attachments/assets/c9d9065f-05e6-4446-afef-8cb5f4dff9ca)
+
 
 ## Usage
 - Modify the HTML and CSS files as needed to customize the appearance and functionality.
