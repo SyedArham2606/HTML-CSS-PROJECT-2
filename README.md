@@ -33,9 +33,3 @@ ScreenShot of my project
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request with your improvements.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Would you like to add or modify any specific sections?
